@@ -1,0 +1,7 @@
+{
+  "name": "skill-spotlight",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Spotlight one skill: the agent uses it for tasks, a pane shows its SKILL.md live and takes your feedback so the agent improves it",
+  "types": "./types/index.d.ts"
+}

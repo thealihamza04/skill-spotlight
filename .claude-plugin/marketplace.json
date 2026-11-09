@@ -1,0 +1,5 @@
+{
+  "name": "skill-spotlight",
+  "owner": { "name": "thealihamza04" },
+  "plugins": [{ "name": "skill-spotlight", "source": "./" }]
+}
